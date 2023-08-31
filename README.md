@@ -1,2 +1,5 @@
 # CECS550
-This is the repository for the assignments of CECS550 Pattern Recognition
+## Course: Pattern Recognition 
+## Class: CECS 550, Section 2
+## Student:  Anurag Balakrishnan    
+## Semester: Fall 2023
